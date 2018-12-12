@@ -1,0 +1,52 @@
+[
+    {
+      "Series": "S50U18",
+      "type": "STK",
+      "Buy/Sell": "S",
+      "call or put": 0,
+      "Price": 1118,
+      "Strike": 1118,
+      "No.of Contract": -5,
+      "Paid/(-Receive)": -5590
+    },
+    {
+      "Series": "S50Z18",
+      "type": "STK",
+      "Buy/Sell": "B",
+      "call or put": 0,
+      "Price": 1135.5,
+      "Strike": 1135.5,
+      "No.of Contract": 9,
+      "Paid/(-Receive)": 10219.5
+    },
+    {
+      "Series": "S50U18C1100",
+      "type": "OPT",
+      "Buy/Sell": "B",
+      "call or put": "C",
+      "Price": 32,
+      "Strike": 1100,
+      "No.of Contract": 8,
+      "Paid/(-Receive)": 8000
+    },
+    {
+      "Series": "S50U18C1125",
+      "type": "OPT",
+      "Buy/Sell": "B",
+      "call or put": "C",
+      "Price": 11,
+      "Strike": 1125,
+      "No.of Contract": 12,
+      "Paid/(-Receive)": 12000
+    },
+    {
+      "Series": "S50U18C1250",
+      "type": "OPT",
+      "Buy/Sell": "S",
+      "call or put": "C",
+      "Price": 20,
+      "Strike": 1250,
+      "No.of Contract": -20,
+      "Paid/(-Receive)": -40000
+    }
+  ]
